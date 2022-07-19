@@ -7,8 +7,7 @@
     <title>Test Server</title>
 </head>
 <body>
-    <?php
-    phpinfo();
-    ?>
+    Hehe.. This is My First Real Server..., Let's come to my site <strong><a href="nashehannafii.github.io">Here</a></strong>
+    Okay
 </body>
 </html>
